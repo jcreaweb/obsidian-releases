@@ -60793,5 +60793,12 @@
     "author": "Oskar Kraak",
     "description": "Open all Syncthing conflicts in the vault as Meld tabs, then choose which conflict files to delete. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "oskarkraak/obsidian-meld-syncthing-conflicts"
+  },
+  {
+    "id": "minichrono",
+    "name": "Minichrono",
+    "author": "Jose",
+    "description": "A minimal stopwatch timer that unfolds to the left.",
+    "repo": "jcreaweb/minichrono"
   }
 ]
